@@ -1,5 +1,9 @@
 module.exports = {
-  purge: false,
+  purge: [
+    './components/**/*.html',
+    './src/**/*.vue',
+    './src/**/*.jsx',
+  ],
   theme: {
     fontFamily: {
       'sans': 'Roboto, Arial, sans-serif',
