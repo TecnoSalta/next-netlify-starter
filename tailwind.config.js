@@ -9,7 +9,7 @@ module.exports = {
     },
     backgroundImage: theme => ({
       'big-card': "url('https://source.unsplash.com/1L71sPT5XKc')",
-      'rounded-image': "url(''https://source.unsplash.com/MP0IUfwrn0A')",
+      'rounded-image': "url('https://source.unsplash.com/MP0IUfwrn0A')"
      })
   },
   variants: {},
